@@ -24,9 +24,12 @@ Data cleaning and handling missing values.
 
 
 📝 Conclusion
-This project showcases a complete data analysis workflow using Python and Pandas. It can serve as a template or learning resource for beginners data analysts.
+
+  This project showcases a complete data analysis workflow using Python and Pandas. It can serve as a template or learning resource for 
+  beginners data analysts.
 
 📮 Contact
+
 For questions or feedback, feel free to reach out:
 
 GitHub: faridi-nayunda
