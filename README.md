@@ -20,9 +20,7 @@ The main objectives of this project are to:
 📌 Key Features
 Data cleaning and handling missing values.
 
-Statistical summaries
-
-Grouping and pivot tables.
+-Statistical summaries
 
 
 📝 Conclusion
