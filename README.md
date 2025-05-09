@@ -17,4 +17,23 @@ The main objectives of this project are to:
 - Jupyter Notebook
 
 
+📌 Key Features
+Data cleaning and handling missing values.
+
+Statistical summaries
+
+Grouping and pivot tables.
+
+
+📝 Conclusion
+This project showcases a complete data analysis workflow using Python and Pandas. It can serve as a template or learning resource for beginners data analysts.
+
+📮 Contact
+For questions or feedback, feel free to reach out:
+
+GitHub: faridi-nayunda
+
+Email: faridinayunda@gmail.com
+
+
 
